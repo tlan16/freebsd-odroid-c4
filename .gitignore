@@ -1,0 +1,6 @@
+.idea/
+/uboot/amlogic-boot-fip/
+/uboot/odroidg12/
+/uboot/uboot_master/
+/uboot/uboot_v2021_04/
+/uboot/*.xz
