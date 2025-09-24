@@ -7,7 +7,7 @@ This repository intend to build FreeBSD images for Odroid C4.
 
 ## Route map
 
-[ ] Build uboot
-[ ] Build freebsd
-[ ] Test on real hardware
-[ ] GitHub CI and release
+1. [ ] Build uboot
+2. [ ] Build freebsd
+3. [ ] Test on real hardware
+4. [ ] GitHub CI and release
