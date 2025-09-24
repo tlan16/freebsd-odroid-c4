@@ -146,4 +146,5 @@ RUN set -eux \
                                        --ddrfw7 fip/diag_lpddr4.fw \
                                        --ddrfw8 fip/aml_ddr.fw \
                                        --ddrfw9 fip/lpddr3_1d.fw \
-                                       --level v3
+                                       --level v3 \
+;
