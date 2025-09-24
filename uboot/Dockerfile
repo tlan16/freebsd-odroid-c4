@@ -33,7 +33,9 @@ RUN --mount=target=/var/lib/apt/lists,type=cache,sharing=locked \
       binutils-aarch64-linux-gnu \
       zlib1g zlib1g:i386 \
       libgnutls28-dev libgnutls28-dev:i386 pkg-config \
-      ccache
+      ccache \
+      rsync \
+;
 
 ENV CCACHE_DIR=/ccache
 

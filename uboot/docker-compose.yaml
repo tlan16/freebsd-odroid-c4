@@ -6,5 +6,4 @@ services:
     platform: linux/amd64
     volumes:
       - ./build.sh:/build.sh:ro
-    command:
-      - /build.sh
+      - ./dist/:/dist/:rw
